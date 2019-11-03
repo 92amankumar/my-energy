@@ -1,4 +1,7 @@
-#Introducing My Energy
+### Default URL: localhost:8081/my-energy/swagger-ui.html#/
+### Integration Tests: gradle clean test --info
+
+# Introducing My Energy
 In the city most houses have a smartmeter installed that can save and send information about how much energy a house has used.
 There are three major providers of energy in town that charge different amounts for the power they supply.
 -	Dr Evil's Dark Energy
@@ -54,6 +57,3 @@ Output
     },
     ...
 ]
-
-### Default URL: localhost:8081/my-energy/swagger-ui.html#/
-### Integration Tests: gradle clean test --info
